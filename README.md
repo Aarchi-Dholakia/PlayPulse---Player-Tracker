@@ -55,7 +55,7 @@
 ## 🔧 Installation & Usage
 1️⃣ Clone the repo:
 ```bash
- git clone https://github.com/Prit5642/PlayPulse_Player_Tracking.git
+ git clone https://github.com/Aarchi-Dholakia/PlayPulse_Player_Tracking.git
  cd PlayPulse
 ```
 
